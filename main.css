@@ -35,11 +35,11 @@ a {
 .CTA {
  	color: #AFEEEE;
 	display: block;
+	display: inline;
 	padding: 8px;
 	background-color: #76D7C4;
 	text-decoration: none;
-	padding-left: 8%;
-	padding-right: 8%;
+	text-color: white;
 	font-weight: bold;
 	font-size: 32px;
 	font-family: Helvetica, Arial, sans-serif;
@@ -73,6 +73,7 @@ header {
 		padding-right: 8%;
 		margin-bottom: 200px;
 		font-size: 36px;
+		font-weight: normal;
 		font-family: Helvetica, Arial, sans-serif;
 }
 
