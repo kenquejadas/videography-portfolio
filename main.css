@@ -32,6 +32,18 @@ a {
 	font-family: Helvetica, Arial, sans-serif;
 }
 
+.CTA {
+ 	color: #AFEEEE;
+	display: block;
+	padding: 8px;
+	background-color: #76D7C4;
+	text-decoration: none;
+	padding-left: 8%;
+	padding-right: 8%;
+	font-weight: bold;
+	font-size: 32px;
+	font-family: Helvetica, Arial, sans-serif;
+}
 
 header {
   		/* width: 100%;
