@@ -63,9 +63,9 @@ header {
       }
 
 h1 {
-	    	color: white;
+	    	text-align: center;
+		color: white;
 		margin-top: 200px;
-		padding-left: 30%;
 		margin-bottom: 2px;
       		font-size: 100px;
 		font-family: Helvetica, Arial, sans-serif;
