@@ -66,7 +66,7 @@ header {
 		font-family: Helvetica, Arial, sans-serif;
       }
 
-.header1 {
+h1 {
 	    	color: white;
 		margin-top: 200px;
 		padding-left: 30%;
@@ -74,16 +74,10 @@ header {
       		font-size: 100px;
 		font-family: Helvetica, Arial, sans-serif;
 }
-.header2 {
-	    	color: white;
-		padding-left: 40%;
-		margin-top: 0px;
-      		font-size: 100px;
-		font-family: Helvetica, Arial, sans-serif;
-}
 .header3 {
 		text-align: center;
 		color: lightgrey;
+		padding-top: 10%;
 	  	padding-left: 8%;
 		padding-right: 8%;
 		margin-bottom: 200px;
