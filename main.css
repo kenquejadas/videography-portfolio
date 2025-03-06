@@ -72,11 +72,9 @@ h1 {
 }
 .header3 {
 		text-align: center;
-		color: lightgrey;
-		padding-top: 10%;
-	  	padding-left: 8%;
-		padding-right: 8%;
-		margin-bottom: 200px;
+		color: gray;
+		padding-top: 5%;
+		margin-bottom: 10%;
 		font-size: 36px;
 		font-weight: normal;
 		font-family: Helvetica, Arial, sans-serif;
