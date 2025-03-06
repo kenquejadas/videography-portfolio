@@ -16,10 +16,15 @@ li {
 }
 
 a {
-  display: block;
-  padding: 8px;
-  background-color: #dddddd;
+	color: #AFEEEE;
+	text-decoration: none;
+	padding-left: 8%;
+	padding-right: 8%;
+	font-weight: bold;
+	font-size: 32px;
+	font-family: Helvetica, Arial, sans-serif;
 }
+
 
 header {
   		/* width: 100%;
@@ -29,12 +34,14 @@ header {
 .header1 {
 	    	color: white;
 		padding-left: 30%;
+		padding-bottom: 2px;
       		font-size: 100px;
 		font-family: Helvetica, Arial, sans-serif;
 }
 .header2 {
 	    	color: white;
 		padding-left: 60%;
+		padding-top: 2px;
       		font-size: 100px;
 		font-family: Helvetica, Arial, sans-serif;
 }
@@ -67,14 +74,3 @@ p {
 	line-height: 1.5;
 }
 
-.projects {
-	a {
-		color: #AFEEEE;
-		text-decoration: none;
-	  	padding-left: 8%;
-		padding-right: 8%;
-		font-weight: bold;
-		font-size: 32px;
-		font-family: Helvetica, Arial, sans-serif;
-	}
-}
