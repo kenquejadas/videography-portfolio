@@ -1,3 +1,9 @@
+.sitename {
+	color: white;
+	font-family: Helvetica, Arial, sans-serif;
+	padding-left: 20px;
+}
+
 .header {
   		/* width: 100%;
 		height: 50px; */
@@ -5,22 +11,30 @@
 		font-family: Helvetica, Arial, sans-serif;
       }
 	  h1 {
-	    color: white;
-      font-size: 50px;
-		  font-family: Helvetica, Arial, sans-serif;
+	    	color: white;
+      		font-size: 50px;
+		font-family: Helvetica, Arial, sans-serif;
 }
 
 h2 {
 	color: white;
-  padding-left: 8%;
+  	padding-left: 8%;
+	padding-right: 8%;
+	padding-bottom: 20px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+h3 {
+	color: #lightgrey;
+  	padding-left: 8%;
 	padding-right: 8%;
 	padding-bottom: 20px;
 	font-family: Helvetica, Arial, sans-serif;
 }
 
 p {
-  color: #DCDCDC;
-  padding-left: 10%;
+  	color: #DCDCDC;
+  	padding-left: 10%;
 	padding-right: 8%;
 	padding-bottom: 15px;
 	font-family: Helvetica, Arial, sans-serif;
@@ -29,7 +43,7 @@ p {
 
 a {
 	color: #AFEEEE;
-  padding-left: 8%;
+  	padding-left: 8%;
 	padding-right: 8%;
 	font-weight: bold;
 	font-family: Helvetica, Arial, sans-serif;
