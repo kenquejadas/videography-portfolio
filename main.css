@@ -1,12 +1,12 @@
 .logo {
 	display: inline;
+	float: left;
 	color: white;
 	font-family: Helvetica, Arial, sans-serif;
 	padding-left: 20px;
 }
 
 ul {
-  	display: inline;
 	list-style-type: none;
   	margin: 0;
   	padding: 0;
