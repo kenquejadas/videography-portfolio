@@ -1,18 +1,21 @@
 .logo {
+	display: inline;
 	color: white;
 	font-family: Helvetica, Arial, sans-serif;
 	padding-left: 20px;
 }
 
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+  	display: inline;
+	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
 }
 
 li {
-  float: left;
-  font-size: 24px;
+ 	display: inline;
+ 	float: left;
+ 	font-size: 24px;
 }
 
 a {
