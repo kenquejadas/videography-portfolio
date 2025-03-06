@@ -28,7 +28,7 @@ li {
 	padding-left: 8%;
 	padding-right: 8%;
 	font-weight: normal;
-	font-size: 32px;
+	font-size: 28px;
 	font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -50,11 +50,12 @@ a {
 	display: block;
 	display: inline;
 	padding: 8px;
+	border-radius: 20px;
 	background-color: #76D7C4;
 	text-decoration: none;
 	text-color: white;
 	font-weight: bold;
-	font-size: 32px;
+	font-size: 28px;
 	font-family: Helvetica, Arial, sans-serif;
 }
 
