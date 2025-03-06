@@ -2,7 +2,8 @@
 	float: left;
 	color: white;
 	font-family: Helvetica, Arial, sans-serif;
-	padding-left: 20px;
+	padding: 20px;
+	margin-right: 40px;
 }
 
 ul {
@@ -14,6 +15,7 @@ ul {
 li {
  	display: inline;
  	float: left;
+	margin: 20px;
  	font-size: 24px;
 	font-family: Helvetica, Arial, sans-serif;
 }
