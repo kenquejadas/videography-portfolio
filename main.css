@@ -8,6 +8,7 @@
 /* TopNav responsive navigation bar */
 .topnav {
   overflow: hidden;
+  background-color: #1B2631;
 }
 
 /* Style the links inside the navigation bar */
@@ -24,6 +25,7 @@
 /* Change the color of links on hover */
 .topnav a:hover {
   color: lightblue;
+  background-color: #212F3D;
 }
 
 /* Add an active class to highlight the current page */
