@@ -140,8 +140,8 @@ h1 {
 h2 {
 	text-align: center;
 	color: lightgrey;
-  	padding-left: 8%;
-	padding-right: 8%;
+  	margin-left: 8%;
+	margin-right: 8%;
 	padding-bottom: 20px;
 	font-size: 30px;
 	font-family: Helvetica, Arial, sans-serif;
@@ -149,8 +149,8 @@ h2 {
 
 h3 {
 	color: lightgrey;
-  	padding-left: 8%;
-	padding-right: 8%;
+  	margin-left: 8%;
+	margin-right: 8%;
 	padding-bottom: 20px;
 	font-size: 5vw;
 	font-family: Helvetica, Arial, sans-serif;
@@ -158,16 +158,16 @@ h3 {
 
 p {
   	color: #DCDCDC;
-  	padding-left: 8%;
-	padding-right: 8%;
+  	margin-left: 8%;
+	margin-right: 8%;
 	padding-bottom: 15px;
 	font-family: Helvetica, Arial, sans-serif;
 	line-height: 1.5;
 }
 
 img {
-	padding-left: 8%;
-	padding-right: 8%;
+	margin-left: 8%;
+	margin-right: 8%;
 	width: 100%;
   	height: auto;
 }
