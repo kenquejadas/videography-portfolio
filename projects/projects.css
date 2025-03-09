@@ -168,4 +168,6 @@ p {
 img {
 	padding-left: 8%;
 	padding-right: 8%;
+	width: 100%;
+  	height: auto;
 }
