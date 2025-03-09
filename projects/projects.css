@@ -168,6 +168,6 @@ p {
 .image {
 	margin-left: 8%;
 	margin-right: 8%;
-	width: 100%;
+	max-width: 400px;
   	height: auto;
 }
