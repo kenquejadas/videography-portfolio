@@ -31,6 +31,7 @@
 /* Add an active class to highlight the current page */
 .topnav a.active {
   color: #CCCCFF;
+  background-color: 18212A;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
