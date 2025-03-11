@@ -110,7 +110,7 @@ a {
 
 header {
 	font-family: Helvetica, Arial, sans-serif;
-	position: sticky;
+	position: fixed;
 	top: 0;
 	width: 100%;
       }
