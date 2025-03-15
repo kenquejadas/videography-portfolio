@@ -77,6 +77,7 @@ html {
 	font-weight: bold;
 	font-size: 24px;
 	font-family: Helvetica, Arial, sans-serif;
+	z-index: 1;
 }
 
 /* ----------------------------------- */
