@@ -71,6 +71,7 @@ html {
 
 .image-text a {
   position: absolute;
+  top: 0%;
   line-height: 300px;
   z-index: 1;
   width: 100%;
