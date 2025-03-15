@@ -69,21 +69,16 @@ html {
 	color: white;
 }
 
-.image-text {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	font-weight: bold;
-	font-size: 24px;
-	font-family: Helvetica, Arial, sans-serif;
-	z-index: 1;
-	width: 100%;
-	height: 100%;
-	opacity: 0.5;
+.image-text a {
+  position: absolute;
+  line-height: 300px;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
 }
 
-.image-text:hover {
+.image-text a:hover {
 	color: lightblue;
   	background-color: #2E86C1;
 }
