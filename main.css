@@ -61,10 +61,8 @@ html {
 
 .main-title {
 	background-image: url("images/placeholder-dark.jpg"); 
-	background-size: cover;
-	height: 100%;
-	width: 100%;
-	object-fit: cover;
+	background-size: contain;
+	background-position: center;
 }
 
 
