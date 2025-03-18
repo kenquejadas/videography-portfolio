@@ -59,6 +59,12 @@ html {
   }
 }
 
+.main-title {
+	background-image: url("images/placeholder.jpg"); 
+	background-size: cover;
+}
+
+
 /* ----------------------------------- */
 /* WIDE SCREEN THUMBNAIL WITH TEXT */
 
