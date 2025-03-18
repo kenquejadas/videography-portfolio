@@ -88,30 +88,6 @@ html {
 
 /* ----------------------------------- */
 
-
-ul {
-	list-style-type: none;
-  	padding: 0;
-	margin: 10px;
-}
-
-li {
- 	float: left;
-}
-
-.navbutton {
-	color: #AFEEEE;
-	display: block;
-	padding: 15px;
-	background-color: transparent;
-	text-decoration: none;
-	padding-left: 8%;
-	padding-right: 8%;
-	font-weight: normal;
-	font-size: 28px;
-	font-family: Helvetica, Arial, sans-serif;
-}
-
 a {
 	color: white;
 	display: block;
