@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <title>Our Story</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link type="text/css" rel="stylesheet" href="project2.css" />
+        <style>
+            
+        </style>
+    </head>
+    <body>
+      <body style="background-color:black;">
+        <header style="z-index: 2;">
+
+                <!-- Load an icon library to show a hamburger menu (bars) on small screens -->
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                
+                <div class="topnav" id="myTopnav">
+                      <a href="https://kenquejadas.github.io/videography-portfolio/"><img src="images/placeholder.jpg" alt="alt text" style="width:50px;height:50px;padding:0px;"></a>
+                      <a href="https://kenquejadas.github.io/videography-portfolio/#projects" class="active" style="padding: 15px 30px;">Projects</a>
+                      <a href="#about" style="padding: 15px 30px;">About</a>
+                      <a href="#contact" style="padding: 15px 30px;">Contact</a>
+                      <a href="javascript:void(0);" class="icon" onclick="myFunction()" style="padding: 15px 30px;">
+                      <i class="fa fa-bars"></i>
+                      </a>
+                </div>
+            
+            <script>
+                function myFunction() {
+                  var x = document.getElementById("myTopnav");
+                  if (x.className === "topnav") {
+                    x.className += " responsive";
+                  } else {
+                    x.className = "topnav";
+                  }
+                }
+            </script>
+      <h3 style="z-index: 0; position: sticky;">Our Story</h3>      
+      <div style="background-color:#122335;text-align: center;z-index: 0; position: sticky; padding-top: 50px; padding-bottom: 50px;">
+            <p>Short description here</p>
+            <iframe width=100% height="500"
+            src="https://www.youtube.com/embed/NI4mfaCBagw">
+            </br>
+            </iframe>
+        </div>
+        
+<div id="contact" style="z-index: 0; position: sticky;">
+            <h2>Contact</h2>
+            <ul style="margin:5%; display: block; text-align: center;">
+                    <li style="float:none;"><a style="font-size:20px;font-weight:normal;margin:5px;margin-bottom:20px;" href="mailto:someone@example.com">Email: </a>
+                    <li style="float:none;"><a href="https://www.instagram.com/coleahlgren_/">
+                        <img src="images/instagram.png" alt="Instagram" style="width:50px;height:50px;"></a>
+               </ul>
+        </div>
+    </body>
+</html>
