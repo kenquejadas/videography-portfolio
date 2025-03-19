@@ -59,42 +59,15 @@ html {
   }
 }
 
-.main-title {
-	background-image: url("images/placeholder-dark.jpg"); 
-	background-size: contain;
-	background-position: center;
-}
-
-
-/* ----------------------------------- */
-/* WIDE SCREEN THUMBNAIL WITH TEXT */
-
-/* Container holding the image and the text */
 .container {
-	position: relative;
-	text-align: center;
-	color: white;
-	width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
-.image-text a {
-  position: absolute;
-  top: 0%;
-  line-height: 300px;
-  z-index: 1;
-  font-color: White;
-  font-size: 30px;
-  width: 100%;
-  max-height: 300px;
-  text-shadow: black 1px 0 10px;
+iframe {
+    aspect-ratio: 16 / 9;
+    width: 100% !important;
 }
-
-.image-text a:hover {
-  	background-color: Crimson;
-	opacity: 0.8;
-}
-
-/* ----------------------------------- */
 
 a {
 	color: white;
