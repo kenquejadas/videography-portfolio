@@ -99,7 +99,7 @@ html {
   object-fit:cover;
 }
 
-.thumbnail:hover {
+.container:hover {
   	background-color: Crimson;
 	opacity: 0.8;
 }
