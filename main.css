@@ -92,7 +92,7 @@ html {
   transform: translate(-50%, -50%);
 }
 
-.container:hover {
+.thumbnail:hover {
   	background-color: Crimson;
 	opacity: 0.8;
 }
